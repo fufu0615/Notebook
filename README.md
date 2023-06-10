@@ -1,2 +1,2 @@
 # Notebook
-机器学习笔记
+Some personal notes taken while learning machine learning
